@@ -1,2 +1,2 @@
 # CognizantApps
-nothing
+git is user friendly
