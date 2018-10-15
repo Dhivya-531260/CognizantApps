@@ -1,2 +1,2 @@
 # CognizantApps
-Main Repository
+git is user friendly
