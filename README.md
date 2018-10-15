@@ -1,2 +1,2 @@
 # CognizantApps
-Main Repository
+This is the sample work repository to learn
